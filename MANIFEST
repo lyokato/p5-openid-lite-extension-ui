@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/OpenID-Lite-Extension-UI.t
+lib/OpenID/Lite/Extension/UI.pm
