@@ -4,6 +4,7 @@ use strict;
 use warnings;
 use base 'Exporter';
 
+our $VERSION = '0.01';
 our @EXPORT_OK = qw(UI_NS UI_POPUP_NS UI_LANG_NS UI_NS_ALIAS);
 
 use constant UI_NS       => q{http://specs.openid.net/extensions/ui/1.0};
